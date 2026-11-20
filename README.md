@@ -1,20 +1,24 @@
+
 # Myles Ortiz
 
-I build web applications and internal tools, and I write software for privacy review and Windows support.
+I build software, investigate technical problems, and develop tools that solve practical problems.
+When I'm not coding, I'm probably on 2 wheels 🏍️
 
-I run [Build & Scale LLC](https://buildscale.shop). The public site and the client work behind it are TypeScript, React, Next.js, and Express, with Python where a job is easier to automate that way. Client source stays private.
+## Public Repositories
 
-I have done public-school IT support: computer repair and network-based imaging.
+### [LeakLens](https://github.com/mymytheguy/leaklens)
+Local photo and video redaction utility. Scans media for potentially sensitive information, produces redacted copies, and generates reports for manual review.
 
-## Public repositories
+### [Build & Scale](https://buildscale.shop)
+Software development, automation, and digital infrastructure for businesses.
 
-- [LeakLens](https://github.com/mymytheguy/leaklens) scans a photo or video on the local machine, flags likely secrets, and writes a redacted copy with a review report.
+## Technical Background
 
-## What I work with
+**Languages:** Python, Lua, JavaScript, TypeScript  
+**Systems:** Windows, Linux, networking, IT support  
+**Development:** Web applications, automation, APIs, Git  
+**Security:** Security research, malware development, proof-of-concept development, sensitive-data detection
 
-- TypeScript, JavaScript, React, Next.js, and Express
-- Python
-- Lua
-- Windows troubleshooting and scripting
+---
 
-https://buildscale.shop
+[Website](https://buildscale.shop) · [Repositories](https://github.com/mymytheguy?tab=repositories)
